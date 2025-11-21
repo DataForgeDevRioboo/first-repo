@@ -1,0 +1,1 @@
+print("Aprendendo VS Code com a OpenAI")
